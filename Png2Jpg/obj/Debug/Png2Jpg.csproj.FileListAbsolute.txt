@@ -1,0 +1,9 @@
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\bin\Debug\Png2Jpg.exe
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\bin\Debug\Png2Jpg.pdb
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.csprojAssemblyReference.cache
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.Form1.resources
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.Properties.Resources.resources
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.csproj.GenerateResource.cache
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.exe
+C:\Users\Ramazan\source\repos\Png2Jpg\Png2Jpg\obj\Debug\Png2Jpg.pdb
